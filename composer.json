@@ -1,0 +1,13 @@
+{
+    "name": "usuario/cbf",
+    "description": "sistema cbf",
+    "authors": [
+        {
+            "name": "uirapeixoto",
+            "email": "uira.peixoto@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    }
+}
